@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="student_image_description">Student image</string>
+    <string name="e_mail">E-mail</string>
+    <string name="student_image">Student image</string>
+    <string name="selecionar_imagem">Selecionar Imagem</string>
+    <string name="adicionar_estudante">Adicionar Estudante</string>
+    <string name="salvar_estudante">Salvar Estudante</string>
+    <string name="telefone">Telefone</string>
+    <string name="e_mail_">E-mail</string>
+    <string name="nome">Nome</string>
+</resources>
